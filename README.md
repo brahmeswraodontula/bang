@@ -1,0 +1,2 @@
+# bang
+learing git 
